@@ -5,3 +5,17 @@ img {
     margin-right: auto;
     width: 20%;
 }
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+#intro {
+    margin-left: 15px;
+}
+
+h2 {
+    margin-left: 10px;
+}
